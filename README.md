@@ -1,3 +1,3 @@
 # NEW-ONE
-just for fun
+# just for fun.
 Let's study matlab
